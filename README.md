@@ -35,10 +35,8 @@ The ERD (Entity-Relationship Diagram) is available [here](companyERD.pdf).
 
 ## Running Queries
 
-The 'pythonQry.py` script contains sample SQL queries that can be executed using Python. Update the script as needed for your specific use case. Before running the script, make sure to set up the database connection details in the script or use environment variables.
+The `pythonQry.py` script contains sample SQL queries that can be executed using Python. Update the script as needed for your specific use case. Before running the script, make sure to set up the database connection details in the script or use environment variables.
 
-```bash
-python pythonQry.py
 
 Contributing
 If you find issues or have improvements to suggest, feel free to open an issue or submit a pull request. Contributions are welcome!
